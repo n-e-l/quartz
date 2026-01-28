@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Nel's quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to a little digital collection of ideas!
+
+[[./note.md|charlie]]
