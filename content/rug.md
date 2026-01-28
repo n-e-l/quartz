@@ -10,7 +10,7 @@ tags:
 - M. Erector spinae
 
 ## Trapezius
-![trapezius](https://upload.wikimedia.org/wikipedia/commons/2/2d/Trapezius_Gray409.PNG)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Trapezius_Gray409.PNG" width="400" alt="trapezius">
 
 - **Functie** - Rotatie scapula
 - **Functie** - Elevatie scapula
@@ -32,7 +32,7 @@ De trapezius heeft drie onderdelen:
 - **Insertie** - Acromion
 
 ## M. Latissimus dorsi
-![latissimus dorsi](https://upload.wikimedia.org/wikipedia/commons/6/6f/Latissimus_dorsi.PNG)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Latissimus_dorsi.PNG" width="400" alt="lattisimus dorsi">
 
 - **Origine** 
   - Th7-Th12
@@ -43,5 +43,5 @@ De trapezius heeft drie onderdelen:
   - Tuberculum minus op de humerus
 
 ## M. Erector spinae
-![erector spinae](https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png" width="400" alt="erector spinae">
 
