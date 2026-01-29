@@ -45,3 +45,7 @@ De trapezius heeft drie onderdelen:
 ## M. Erector spinae
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray389_-_Erector_spinae.png" width="400" alt="erector spinae">
 
+
+## Rhomboid
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rhomboidei.PNG" width="400" alt="rhomboid">
+
